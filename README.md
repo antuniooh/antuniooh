@@ -23,12 +23,14 @@ These are some technologies that i know:
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
 ![C++](https://img.shields.io/badge/-C++-007ACC?style=flat-square&logo=cplusplus&logoColor=white)
 ![Qt](https://img.shields.io/badge/-Qt-339933?style=flat-square&logo=qt&logoColor=white)
+![QML](https://img.shields.io/badge/-QML-0052CC?style=flat-square&logo=qml)
 ![C#](https://img.shields.io/badge/-CSharp-E34F26?style=flat-square&logo=c#&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-007ACC?style=flat-square&logo=python&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-007ACC?style=flat-square&logo=python&logoColor=white)
+![Assembly](https://img.shields.io/badge/-Assembly-339933?style=flat-square&logo=Assembly&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript%20-%23F37626.svg?&style=flat-square&logo=Typescript&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell-339933?style=flat-square&logo=shell&logoColor=white)
 
 ## Quick overview
 
