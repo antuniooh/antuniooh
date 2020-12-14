@@ -18,6 +18,7 @@ These are some technologies that i know:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Linux](https://img.shields.io/badge/Linux%20-%23F37626.svg?&style=flat-square&logo=Linux&logoColor=white)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
 ![C++](https://img.shields.io/badge/-C++-007ACC?style=flat-square&logo=cplusplus&logoColor=white)
@@ -27,7 +28,7 @@ These are some technologies that i know:
 ![Python](https://img.shields.io/badge/-Python-007ACC?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux%20-%23F37626.svg?&style=flat-square&logo=Linux&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript%20-%23F37626.svg?&style=flat-square&logo=Typescript&logoColor=white)
 
 ## Quick overview
 
