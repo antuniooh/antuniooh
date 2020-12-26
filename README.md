@@ -35,4 +35,4 @@ These are some technologies that i know:
 ## Quick overview
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=antuniooh&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antuniooh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antuniooh)](https://github.com/anuraghazra/github-readme-stats)
