@@ -1,6 +1,6 @@
 ### Hi everyone!
 
-I'm Antonio Muniz, a Computer Science Student at Centro Universitário FEI. Working as an Engineer Intern at Thales Group.
+I'm Antonio Muniz, a Computer Science Student at Centro Universitário FEI. Working as an Junior Software Developer at Thales Group.
 
 [![Linkedin: Antonio](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antuniooh/)](https://www.linkedin.com/in/antuniooh/)
 
