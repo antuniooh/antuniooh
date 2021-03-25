@@ -30,7 +30,7 @@ These are some technologies that i know:
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript%20-%23F37626.svg?&style=flat-square&logo=Typescript&logoColor=white)
-![Shell](https://img.shields.io/badge/-Shell-339933?style=flat-square&logo=shell&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell-339933?style=flat-square&logo=shell&logoColor=blue)
 
 ## Quick overview
 
