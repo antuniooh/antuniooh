@@ -1,8 +1,35 @@
-### Hi everyone!
+# Hi, everyone! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" />
 
-I'm Antonio Muniz, a Computer Science Student at Centro Universitário FEI. Working as an Junior Software Developer at Thales Group.
+<img align="right" width="40%" src="https://data.whicdn.com/images/297312300/original.gif" alt="happy" />
 
-[![Linkedin: Antonio](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antuniooh/)](https://www.linkedin.com/in/antuniooh/)
+### Welcome to my github!
+<p>
+  I'm Antonio Muniz, brazilian software developer.
+</p>
+
+<br/>
+
+### About me
+
+- 👨‍🎓 I'm a Computer Science Student at Centro Universitário FEI;
+
+- 👩🏻‍💻 I’m currently working as an Junior Software Developer at Thales Group;
+
+- 📚 I’m currently learning Spring Boot, Angular, Data Structure and Design Patterns; 
+
+- ☕ Can I get a small coffee, please?
+
+### Contact:
+
+<a href="https://www.linkedin.com/in/antuniooh/">
+  <code><img alt="Linkedin" width="28" src="https://www.flaticon.com/svg/vstatic/svg/124/124011.svg?token=exp=1617392591~hmac=1db73b005b0c7104cb5add11c7fcc408" /></code>
+</a>
+
+<a href="mailto:antonio.gustavo92@gmail.com">
+  <code><img alt="E-mail" width="32" src="https://www.flaticon.com/svg/vstatic/svg/281/281769.svg?token=exp=1617392616~hmac=86a8913343f21865a733f3bb6f2a74e2" /></code>
+</a>
+
+<br/><br/>
 
 ## Technologies
 
@@ -32,9 +59,20 @@ These are some technologies that i know:
 ![Typescript](https://img.shields.io/badge/Typescript%20-%23F37626.svg?&style=flat-square&logo=Typescript&logoColor=white)
 ![Shell](https://img.shields.io/badge/-Shell-339933?style=flat-square&logo=shell&logoColor=blue)
 
-## Quick overview
+## Coding
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=antuniooh&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antuniooh&layout=compact&exclude_repo=DatabaseAnalysisProject,FacialRecognitionProject,ClassroomProject&langs_count=6&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=antuniooh&show_icons=true&theme=dark" alt="antuniooh's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antuniooh&layout=compact&exclude_repo=DatabaseAnalysisProject,FacialRecognitionProject,ClassroomProject&langs_count=6&theme=dark" alt="antuniooh's github stats" />
+</p>
+
+<br/>
+
+<p align="right">
+  <a href="#">
+      <img src="https://visitor-badge.glitch.me/badge?page_id=antuniooh.antuniooh" />
+   </a>
+</p>
   
