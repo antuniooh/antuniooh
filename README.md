@@ -1,13 +1,12 @@
 # Hi, everyone! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" />
 
-<img align="right" width="40%" src="https://data.whicdn.com/images/297312300/original.gif" alt="happy" />
 
 ### Welcome to my github!
 <p>
   I'm Antonio Muniz, brazilian software developer.
 </p>
 
-<br/>
+<img align="right" width="40%" src="https://data.whicdn.com/images/297312300/original.gif" alt="happy" />
 
 ### About me
 
@@ -28,8 +27,6 @@
 <a href="mailto:antonio.gustavo92@gmail.com">
   <code><img alt="E-mail" width="32" src="https://www.flaticon.com/svg/vstatic/svg/281/281769.svg?token=exp=1617392616~hmac=86a8913343f21865a733f3bb6f2a74e2" /></code>
 </a>
-
-<br/><br/>
 
 ## Technologies
 
