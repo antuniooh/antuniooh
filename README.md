@@ -21,11 +21,11 @@
 ### Contact:
 
 <a href="https://www.linkedin.com/in/antuniooh/">
-  <code><img alt="Linkedin" width="28" src="https://www.flaticon.com/svg/vstatic/svg/124/124011.svg" /></code>
+  <code><img alt="Linkedin" width="28" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" /></code>
 </a>
 
 <a href="mailto:antonio.gustavo92@gmail.com">
-  <code><img alt="E-mail" width="32" src="https://www.flaticon.com/svg/vstatic/svg/281/281769.svg" /></code>
+  <code><img alt="E-mail" width="32" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_gmail-256.png" /></code>
 </a>
 
 ## Technologies
