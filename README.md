@@ -21,11 +21,11 @@
 ### Contact:
 
 <a href="https://www.linkedin.com/in/antuniooh/">
-  <code><img alt="Linkedin" width="28" src="https://www.flaticon.com/svg/vstatic/svg/124/124011.svg?token=exp=1617392591~hmac=1db73b005b0c7104cb5add11c7fcc408" /></code>
+  <code><img alt="Linkedin" width="28" src="https://www.flaticon.com/svg/vstatic/svg/124/124011.svg" /></code>
 </a>
 
 <a href="mailto:antonio.gustavo92@gmail.com">
-  <code><img alt="E-mail" width="32" src="https://www.flaticon.com/svg/vstatic/svg/281/281769.svg?token=exp=1617392616~hmac=86a8913343f21865a733f3bb6f2a74e2" /></code>
+  <code><img alt="E-mail" width="32" src="https://www.flaticon.com/svg/vstatic/svg/281/281769.svg" /></code>
 </a>
 
 ## Technologies
