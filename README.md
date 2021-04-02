@@ -14,7 +14,7 @@
 
 - 👩🏻‍💻 I’m currently working as an Junior Software Developer at Thales Group;
 
-- 📚 I’m currently learning Spring Boot, Angular, Data Structure and Design Patterns; 
+- 📚 I’m currently learning Spring Boot, Angular, Data Structures and Design Patterns; 
 
 - ☕ Can I get a small coffee, please?
 
