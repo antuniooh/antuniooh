@@ -11,7 +11,7 @@
 
 - 👨‍🎓 I'm a Computer Science Student at Centro Universitário FEI;
 
-- 👩🏻‍💻 I’m currently working as an Junior Software Developer at Thales Group;
+- 👩🏻‍💻 I’m currently working as a Junior Software Developer at Thales Group;
 
 - 📚 I’m currently learning Spring Boot, Angular, AWS, Data Structures and Design Patterns; 
 
