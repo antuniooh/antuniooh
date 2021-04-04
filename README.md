@@ -1,12 +1,11 @@
 # Hi, everyone!
 
+<img align="right" width="40%" src="https://media1.tenor.com/images/758f1cd8cede9c3e4711306fc030f4ce/tenor.gif?itemid=14640055" alt="happy" />
 
 ### Welcome to my github!
 <p>
   I'm Antonio Muniz, brazilian software developer.
 </p>
-
-<img align="right" width="40%" src="https://media1.tenor.com/images/758f1cd8cede9c3e4711306fc030f4ce/tenor.gif?itemid=14640055" alt="happy" />
 
 ### About me
 
