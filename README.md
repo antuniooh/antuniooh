@@ -1,4 +1,4 @@
-# Hi, everyone! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" />
+# Hi, everyone!
 
 
 ### Welcome to my github!
@@ -6,7 +6,7 @@
   I'm Antonio Muniz, brazilian software developer.
 </p>
 
-<img align="right" width="40%" src="https://data.whicdn.com/images/297312300/original.gif" alt="happy" />
+<img align="right" width="40%" src="https://media1.tenor.com/images/758f1cd8cede9c3e4711306fc030f4ce/tenor.gif?itemid=14640055" alt="happy" />
 
 ### About me
 
