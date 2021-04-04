@@ -15,7 +15,7 @@
 
 - 📚 I’m currently learning Spring Boot, Angular, AWS, Data Structures and Design Patterns; 
 
-- ☕ Can I get a small coffee, please?
+- ☕ Can I get a little coffee, please?
 
 ### Contact:
 
