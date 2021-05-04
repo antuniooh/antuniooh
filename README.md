@@ -13,7 +13,7 @@
 
 - 👩🏻‍💻 I’m currently working as a Junior Software Developer at Thales;
 
-- 📚 I’m currently learning Spring Boot, Angular, AWS, Data Structures and Design Patterns; 
+- 📚 I’m currently learning Java, Spring Boot, Angular, AWS, Microservices and Design Patterns; 
 
 - ☕ Can I get a little coffee, please?
 
