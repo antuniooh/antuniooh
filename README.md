@@ -61,7 +61,7 @@ These are some technologies that i know:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=antuniooh&show_icons=true&theme=dark" alt="antuniooh's github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antuniooh&layout=compact&exclude_repo=DatabaseAnalysisProject,FacialRecognitionProject,ClassroomProject&langs_count=6&theme=dark" alt="antuniooh's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antuniooh&layout=compact&exclude_repo=DatabaseAnalysisProject,probability-and-statistics-database-analysis,FacialRecognitionProject,ClassroomProject&langs_count=6&theme=dark" alt="antuniooh's github stats" />
 </p>
 
 <br/>
