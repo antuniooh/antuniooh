@@ -57,17 +57,12 @@ These are some technologies that i know:
 
 
 ## Coding
-
 <br/>
-<div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antuniooh&show_icons=true&theme=dark" alt="antuniooh's github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antuniooh&layout=compact&exclude_repo=DatabaseAnalysisProject,probability-and-statistics-database-analysis,FacialRecognitionProject,ClassroomProject&langs_count=6&theme=dark" alt="antuniooh's github stats" />
-</p>
-  
+ <div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antuniooh&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antuniooh&&exclude_repo=DatabaseAnalysisProject,probability-and-statistics-database-analysis,FacialRecognitionProject,ClassroomProject&layout=compact&langs_count=16&theme=dark"/>
 </div>
-
 <br/>
 
 <p align="right">
