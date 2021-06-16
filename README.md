@@ -55,9 +55,13 @@ These are some technologies that i know:
 ![Typescript](https://img.shields.io/badge/Typescript%20-%23F37626.svg?&style=flat-square&logo=Typescript&logoColor=white)
 ![Shell](https://img.shields.io/badge/-Shell-339933?style=flat-square&logo=shell&logoColor=blue)
 
+
 ## Coding
 
 <br/>
+
+  ![Snake animation](https://github.com/antuniooh/antuniooh/blob/output/github-contribution-grid-snake.svg)
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=antuniooh&show_icons=true&theme=dark" alt="antuniooh's github stats" />
