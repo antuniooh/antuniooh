@@ -13,7 +13,7 @@
 
 - 👩🏻‍💻 I’m currently working as a IT Engineering Analyst JR at Itaú Unibanco;
 
-- 📚 I’m currently learning Java, Spring Boot, Angular, AWS, Microservices and Design Patterns; 
+- 📚 I’m currently learning Java, Spring Boot, AWS, Microservices and Design Patterns; 
 
 - ☕ Can I get a little coffee, please?
 
