@@ -58,11 +58,25 @@ These are some technologies that i know:
 
 ## Coding
 <br/>
- <div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antuniooh&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antuniooh&&exclude_repo=DatabaseAnalysisProject,probability-and-statistics-database-analysis,FacialRecognitionProject,ClassroomProject&layout=compact&langs_count=16&theme=dark"/>
-</div>
+
+
+<center>
+    <tr>
+      <td><p align="center"><a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api?username=antuniooh&show_icons=true&count_private=true&hide_border=true&&exclude_repo=DatabaseAnalysisProject,probability-and-statistics-database-analysis,FacialRecognitionProject,ClassroomProject&include_all_commits=true&theme=yeblu" alt="Bruno's github stats" /></a></p>
+      </td>
+    </tr>
+      <td><p align="center"><a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=antuniooh&layout=compact&langs_count=20&hide_border=true&theme=yeblu" /></a></p>
+      </td>
+    <tr>
+      <td><p align="center"><a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=antuniooh&hide_border=true&theme=yeblu&langs_count=20&layout=compact&v2" /></a></p>
+      </td>
+    </tr>
+    <tr>
+      <td><p align="center"><a href="#"><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=antuniooh&hide_border=true&theme=yeblu" /></a></p>
+      </td>
+    </tr>
+
+</center>
 <br/>
 
 <p align="right">
