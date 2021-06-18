@@ -68,10 +68,6 @@ These are some technologies that i know:
       <td><p align="center"><a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=antuniooh&layout=compact&langs_count=20&hide_border=true&theme=yeblu" /></a></p>
       </td>
     <tr>
-      <td><p align="center"><a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=antuniooh&hide_border=true&theme=yeblu&langs_count=20&layout=compact&v2" /></a></p>
-      </td>
-    </tr>
-    <tr>
       <td><p align="center"><a href="#"><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=antuniooh&hide_border=true&theme=yeblu" /></a></p>
       </td>
     </tr>
