@@ -67,6 +67,9 @@ These are some technologies that i know:
           </a></p>
        <p align="center"><a href="#"><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=antuniooh&hide_border=true&theme=yeblu"  alt="Bruno's github stats"/></a></p>
       </td>
+       <td>
+        <p align="center"><a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=antuniooh&layout=compact&langs_count=20&hide_border=true&theme=yeblu" alt="Bruno's github stats"/> </a></p>
+      </td>
       </tr>
 </center>
 <br/>
