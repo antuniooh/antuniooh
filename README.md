@@ -27,6 +27,10 @@
   <code><img alt="E-mail" width="32" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_gmail-256.png" /></code>
 </a>
 
+<a href="https://stackoverflow.com/users/13621203/antuniooh">
+  <code><img alt="Stack" width="32" src="https://apifriends.com/wp-content/uploads/2018/04/stackoverflow.png" /></code>
+</a>
+
 ## Technologies
 
 These are some technologies that i know:
