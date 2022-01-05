@@ -11,7 +11,7 @@
 
 - 👨‍🎓 I'm a Computer Science Student at Centro Universitário FEI;
 
-- 👩🏻‍💻 I’m currently working as a IT Engineering Analyst JR at Itaú Unibanco;
+- 👩🏻‍💻 I’m currently working as an IT Engineering Analyst JR at Itaú Unibanco;
 
 - 📚 I’m currently learning Java, Spring Boot, AWS, Microservices, Design Patterns and Clean arch; 
 
